@@ -1,5 +1,8 @@
 BitBucket WebHook Middleware
 =============================
+[![Build Status](https://travis-ci.org/withmandala/bitbucket-hook.svg?branch=master)](https://travis-ci.org/withmandala/bitbucket-hook)
+[![Coverage Status](https://coveralls.io/repos/github/withmandala/bitbucket-hook/badge.svg?branch=master)](https://coveralls.io/github/withmandala/bitbucket-hook?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/withmandala/bitbucket-hook/badge.svg)](https://snyk.io/test/github/withmandala/bitbucket-hook)
 
 This middleware allows you to hook push event from BitBucket and execute some
 actions such as `git-pull`.
