@@ -1,9 +1,9 @@
 {
   "name": "bitbucket-hook",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "BitBucket webhook handler middleware for Express",
   "main": "cjs/index.js",
-  "types": "dist/index.d.ts",
+  "typings": "cjs/index.d.ts",
   "scripts": {
     "prepublish": "tsc",
     "test": "nyc mocha -r ts-node/register test/**/*.spec.ts",
