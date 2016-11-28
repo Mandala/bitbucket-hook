@@ -5,6 +5,8 @@
  * Copyright (c) 2016 Fadhli Dzil Ikram
  */
 
+'use strict'
+
 import mocha = require('mocha')
 import chai = require('chai')
 import chaiAsPromised = require('chai-as-promised')

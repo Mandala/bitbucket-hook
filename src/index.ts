@@ -4,6 +4,8 @@
  * Copyright (c) 2016 Fadhli Dzil Ikram
  */
 
+'use strict'
+
 import { RequestHandler } from 'express'
 
 // This is IP regex from BitBucket webhook wiki page
